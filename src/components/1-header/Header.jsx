@@ -38,7 +38,7 @@ const Header = () => {
             <a href="#main">Projects</a>
           </li>
           <li>
-            <a href="#contact">Contact</a>
+            <a href="https://wa.me/201001716811?text=مرحبا%20أريد%20الاستفسار">Contact</a>
           </li>
         </ul>
       </nav>
