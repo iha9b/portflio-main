@@ -31,4 +31,12 @@ export const myProjects = [
     category: ["js"],
     imgPath: "./images/your age.png",
   },
+  {
+    projectTitle: "my portflio project",
+    projectParagraph:"A modern and responsive personal portfolio built with React and CSS, showcasing my projects, skills, and experience.",
+    linkDemo: "https://iha9b.github.io/portflio-main/",
+    linkGitHub: "https://github.com/iha9b/portflio-main",
+    category: ["css", "react"],
+    imgPath: "./images/portflio.png",
+  }
 ];
